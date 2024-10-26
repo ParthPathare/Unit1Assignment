@@ -8,7 +8,7 @@ int main()
     num1 = 1000;
     num2 = 100;
 
-    if (num1 >= num2)  // Here it will check that is num1 grater than or equal to num2
+    if (num1 >= num2)  // Here it will check that is num1 greater than or equal to num2
     {
         printf("%d is grater than or equal to %d\n", num1, num2);
     } 
